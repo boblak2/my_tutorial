@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 prvi commit dodajam tole - dodajam druga veja (KVARIM COMMIT)
-=======
-prvi commit dodajam tole - dodajam druga veja -dodajam tretja veja
->>>>>>> tretja_veja
+
