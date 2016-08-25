@@ -9,3 +9,4 @@ i love git (fuck no)
 prvi commit dodajam tole - dodajam druga veja -dodajam tretja veja
 stash
 
+testiram github
