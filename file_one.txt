@@ -1,4 +1,4 @@
-moj novi merge
+moj novi merge iz sourceTree
 
 jebe se mi
 
