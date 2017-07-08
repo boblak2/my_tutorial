@@ -11,5 +11,5 @@ prvi commit dodajam tole - dodajam druga veja -dodajam tretja veja
 stash
 
 
-neki1 yyyyy
+neki1 yyyyy ooooo
 
