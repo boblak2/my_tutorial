@@ -16,3 +16,4 @@ test1
 test2
 test3 aaaaaa
 test4 xxxxxxx
+var val = this.innerHTML;
