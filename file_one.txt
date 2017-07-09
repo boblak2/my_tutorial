@@ -1,15 +1,3 @@
-moj novi merge iz sourceTree
+zacetek
 
-jebe se mi
-
-
-hello world
-
-i love git (fuck no)
-
-prvi commit dodajam tole - dodajam druga veja -dodajam tretja veja
-stash
-
-
-neki1 yyyyy ttttt
-
+test 1
